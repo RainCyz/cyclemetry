@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cyclemetry/static/css/main.e6c13ad2.css",
+    "main.js": "/cyclemetry/static/js/main.d3be4527.js",
+    "static/js/453.77b5c223.chunk.js": "/cyclemetry/static/js/453.77b5c223.chunk.js",
+    "static/media/test.png": "/cyclemetry/static/media/test.a6768fd4a6c7e5468da1.png",
+    "index.html": "/cyclemetry/index.html",
+    "main.e6c13ad2.css.map": "/cyclemetry/static/css/main.e6c13ad2.css.map",
+    "main.d3be4527.js.map": "/cyclemetry/static/js/main.d3be4527.js.map",
+    "453.77b5c223.chunk.js.map": "/cyclemetry/static/js/453.77b5c223.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d3be4527.js"
+  ]
+}
