@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cyclemetry/static/css/main.ba8231c6.css",
-    "main.js": "/cyclemetry/static/js/main.60deb627.js",
+    "main.js": "/cyclemetry/static/js/main.d52c7593.js",
     "static/js/488.bcf0d948.chunk.js": "/cyclemetry/static/js/488.bcf0d948.chunk.js",
     "index.html": "/cyclemetry/index.html",
     "main.ba8231c6.css.map": "/cyclemetry/static/css/main.ba8231c6.css.map",
-    "main.60deb627.js.map": "/cyclemetry/static/js/main.60deb627.js.map",
+    "main.d52c7593.js.map": "/cyclemetry/static/js/main.d52c7593.js.map",
     "488.bcf0d948.chunk.js.map": "/cyclemetry/static/js/488.bcf0d948.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba8231c6.css",
-    "static/js/main.60deb627.js"
+    "static/js/main.d52c7593.js"
   ]
 }
