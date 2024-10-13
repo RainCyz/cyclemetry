@@ -1,4 +1,5 @@
 import subprocess
+import os
 
 from activity import Activity
 from scene import Scene
@@ -57,5 +58,11 @@ def demo_frame(gpx_filename, template_filename, second, headless):
     scene.build_figures()
     scene.render_demo(end - start, second)
     if not headless:
-        subprocess.call(["open", scene.frames[0].full_path()])
+        if os.name == 'nt':
+            full_path = os.path.abspath(scene.frames[0].full_path())
+            print(f"Absolute path of frame: {full_path}")
+            os.startfile(full_path)
+            # os.startfile(scene.frames[0].full_path())
+        else:
+            subprocess.call(["open", scene.frames[0].full_path()])
     return scene

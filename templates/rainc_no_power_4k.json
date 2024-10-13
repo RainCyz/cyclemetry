@@ -16,23 +16,17 @@
       "x": 100,
       "y": 700,
       "font_size": 60,
-      "text": "MPH"
+      "text": "KMH"
     },
     {
       "x": 100,
       "y": 990,
       "font_size": 60,
-      "text": "PWR"
-    },
-    {
-      "x": 100,
-      "y": 1280,
-      "font_size": 60,
       "text": "RPM"
     },
     {
       "x": 100,
-      "y": 1570,
+      "y": 1280,
       "font_size": 60,
       "text": "BPM"
     }
@@ -59,7 +53,7 @@
     },
     {
       "x": 80,
-      "y": 1600,
+      "y": 1310,
       "font_size": 220,
       "value": "heartrate"
     }
@@ -69,8 +63,8 @@
       "value": "course",
       "x": -64,
       "y": -87,
-      "width": 700,
-      "height": 600,
+      "width": 500,
+      "height": 400,
       "margin": 0.1,
       "color": "#f4f4f4",
       "line": {
@@ -92,9 +86,9 @@
     },
     {
       "value": "elevation",
-      "x": -1127,
+      "x": -500,
       "y": 1912,
-      "width": 5745,
+      "width": 4000,
       "height": 100,
       "margin": 0.1,
       "color": "#f4f4f4",
